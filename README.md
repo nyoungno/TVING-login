@@ -13,7 +13,7 @@ TVING-login 웹페이지 구축
 - Bootstrap
 
 ## 프로젝트에서 다루는 주요 개념
-z-index: 5;
+z-index: 5; <br>
 flex-direction: column;
 
 ### 개선사항
